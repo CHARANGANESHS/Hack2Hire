@@ -1,0 +1,101 @@
+Name,First name,Last name,Email,Gender,Roll No.,Department,Courses,Admission Date,Year,Grade,Hosteller/ Day Scholar
+Vaibhav Khare,Vaibhav,Khare,Khare.Vaibhav@hotmail.com,F,MU7466,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",15-02-2024,2nd year,C,Hosteller
+Nakul Kara,Nakul,Kara,Kara.Nakul@yahoo.com,M,MU0013,Mathematics,"Calculus, Linear Algebra, Probability and Statistics, Number Theory, Differential Equations",27-08-2022,3rd year,C,Suspended
+Himmat Kashyap,Himmat,Kashyap,Kashyap.Himmat@yahoo.com,M,MU1668,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",16-01-2021,3rd year,B,Hosteller
+Emir Shanker,Emir,Shanker,Shanker.Emir@yahoo.com,M,MU9410,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",10-11-2021,4th year,F,Day Scholar
+Umang Sami,Umang,Sami,Sami.Umang@hotmail.com,M,MU5971,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",23-03-2024,2nd year,A,Hosteller
+Shlok Srinivasan,Shlok,Srinivasan,Srinivasan.Shlok@gmail.com,F,MU3226,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",04-01-2024,2nd year,D,Suspended
+Aarna Ratta,Aarna,Ratta,Ratta.Aarna@hotmail.com,M,MU0488,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",19-04-2022,4th year,B,Suspended
+Vivaan Sen,Vivaan,Sen,Sen.Vivaan@hotmail.com,M,MU4378,English,"Literature, Creative Writing, Linguistics, Shakespearean Studies, Poetry",25-01-2021,1st year,B,Suspended
+Aayush Lalla,Aayush,Lalla,Lalla.Aayush@yahoo.com,F,MU4189,Art and Design,"Drawing, Painting, Sculpture, Graphic Design, Art History",27-11-2021,4th year,A,Suspended
+Divyansh Seth,Divyansh,Seth,Seth.Divyansh@gmail.com,F,MU4404,Mechanical Engineering,"Thermodynamics, Mechanics of Materials, Fluid Mechanics, Control Systems, CAD/CAM",15-08-2021,2nd year,A,Suspended
+Manjari Sharma,Manjari,Sharma,Sharma.Manjari@hotmail.com,F,MU4260,History,"World History, American History, European History, Ancient History, Medieval History",22-05-2024,2nd year,A+,Day Scholar
+Bhavin Baral,Bhavin,Baral,Baral.Bhavin@hotmail.com,F,MU0908,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",19-05-2021,3rd year,F,Day Scholar
+Indranil Kale,Indranil,Kale,Kale.Indranil@gmail.com,M,MU0272,Environmental Science,"Environmental Biology, Climate Change Studies, Environmental Policy, Conservation Ecology, Geospatial Analysis",11-09-2022,4th year,E,Suspended
+Prerak Gupta,Prerak,Gupta,Gupta.Prerak@hotmail.com,M,MU1672,Economics,"Microeconomics, Macroeconomics, International Economics, Econometrics, Development Economics",19-04-2024,3rd year,A+,Suspended
+Rohan Sen,Rohan,Sen,Sen.Rohan@gmail.com,F,MU2016,Environmental Science,"Environmental Biology, Climate Change Studies, Environmental Policy, Conservation Ecology, Geospatial Analysis",24-06-2020,3rd year,A+,Day Scholar
+Advika Chauhan,Advika,Chauhan,Chauhan.Advika@gmail.com,M,MU0239,Art and Design,"Drawing, Painting, Sculpture, Graphic Design, Art History",21-07-2023,2nd year,B+,Suspended
+Indrajit Krishnan,Indrajit,Krishnan,Krishnan.Indrajit@yahoo.com,M,MU9673,Biology,"Cell Biology, Genetics, Ecology, Microbiology, Human Anatomy",23-10-2022,3rd year,C,Day Scholar
+Damini Choudhury,Damini,Choudhury,Choudhury.Damini@gmail.com,F,MU2105,Environmental Science,"Environmental Biology, Climate Change Studies, Environmental Policy, Conservation Ecology, Geospatial Analysis",03-06-2024,2nd year,B,Suspended
+Tara Tandon,Tara,Tandon,Tandon.Tara@gmail.com,F,MU5938,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",20-12-2022,3rd year,E,Suspended
+Shayak Kuruvilla,Shayak,Kuruvilla,Kuruvilla.Shayak@hotmail.com,F,MU7588,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",24-02-2024,3rd year,A,Day Scholar
+Uthkarsh Maharaj,Uthkarsh,Maharaj,Maharaj.Uthkarsh@hotmail.com,F,MU4106,Mechanical Engineering,"Thermodynamics, Mechanics of Materials, Fluid Mechanics, Control Systems, CAD/CAM",17-05-2022,1st year,C,Day Scholar
+Eva Bhatnagar,Eva,Bhatnagar,Bhatnagar.Eva@yahoo.com,M,MU0858,Biology,"Cell Biology, Genetics, Ecology, Microbiology, Human Anatomy",13-09-2023,3rd year,A+,Hosteller
+Miraya Gandhi,Miraya,Gandhi,Gandhi.Miraya@yahoo.com,F,MU3186,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",19-04-2023,3rd year,D,Suspended
+Krish Dhar,Krish,Dhar,Dhar.Krish@hotmail.com,F,MU2790,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",29-07-2021,2nd year,A,Suspended
+Veer Acharya,Veer,Acharya,Acharya.Veer@yahoo.com,M,MU1817,Biology,"Cell Biology, Genetics, Ecology, Microbiology, Human Anatomy",15-05-2022,3rd year,F,Suspended
+Mannat Warrior,Mannat,Warrior,Warrior.Mannat@hotmail.com,F,MU6764,Computer Science,"Introduction to Programming, Data Structures, Algorithms, Database Management, Web Development",10-06-2022,4th year,C+,Day Scholar
+Kashvi Seshadri,Kashvi,Seshadri,Seshadri.Kashvi@yahoo.com,M,MU6022,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",08-06-2022,2nd year,E,Day Scholar
+Sara Mallick,Sara,Mallick,Mallick.Sara@yahoo.com,M,MU3370,Mechanical Engineering,"Thermodynamics, Mechanics of Materials, Fluid Mechanics, Control Systems, CAD/CAM",30-07-2023,1st year,D,Suspended
+Tejas Jayaraman,Tejas,Jayaraman,Jayaraman.Tejas@hotmail.com,M,MU6841,Economics,"Microeconomics, Macroeconomics, International Economics, Econometrics, Development Economics",09-06-2022,1st year,B,Day Scholar
+Yashvi Chaudry,Yashvi,Chaudry,Chaudry.Yashvi@hotmail.com,M,MU0838,History,"World History, American History, European History, Ancient History, Medieval History",17-10-2022,1st year,C,Hosteller
+Veer Devan,Veer,Devan,Devan.Veer@yahoo.com,F,MU1322,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",18-12-2023,2nd year,E,Suspended
+Elakshi Khatri,Elakshi,Khatri,Khatri.Elakshi@gmail.com,F,MU3286,Biology,"Cell Biology, Genetics, Ecology, Microbiology, Human Anatomy",05-12-2022,4th year,C+,Suspended
+Vedika Mani,Vedika,Mani,Mani.Vedika@hotmail.com,F,MU5189,History,"World History, American History, European History, Ancient History, Medieval History",21-01-2022,3rd year,B,Suspended
+Yakshit Shah,Yakshit,Shah,Shah.Yakshit@hotmail.com,M,MU1391,Environmental Science,"Environmental Biology, Climate Change Studies, Environmental Policy, Conservation Ecology, Geospatial Analysis",24-05-2024,2nd year,E,Suspended
+Fateh Viswanathan,Fateh,Viswanathan,Viswanathan.Fateh@yahoo.com,M,MU9368,Mechanical Engineering,"Thermodynamics, Mechanics of Materials, Fluid Mechanics, Control Systems, CAD/CAM",03-09-2023,2nd year,C+,Suspended
+Bhavin Garg,Bhavin,Garg,Garg.Bhavin@yahoo.com,F,MU4155,Computer Science,"Introduction to Programming, Data Structures, Algorithms, Database Management, Web Development",22-06-2021,4th year,D,Hosteller
+Ranbir Bora,Ranbir,Bora,Bora.Ranbir@gmail.com,M,MU6407,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",21-10-2021,1st year,D,Suspended
+Taimur Taneja,Taimur,Taneja,Taneja.Taimur@hotmail.com,M,MU1212,History,"World History, American History, European History, Ancient History, Medieval History",25-05-2021,1st year,A+,Hosteller
+Dharmajan Chaudry,Dharmajan,Chaudry,Chaudry.Dharmajan@hotmail.com,F,MU3303,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",26-08-2023,2nd year,A+,Hosteller
+Reyansh Handa,Reyansh,Handa,Handa.Reyansh@yahoo.com,F,MU5950,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",27-08-2023,3rd year,D,Suspended
+Vivaan Bobal,Vivaan,Bobal,Bobal.Vivaan@yahoo.com,F,MU0261,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",15-02-2021,4th year,E,Suspended
+Yashvi Shere,Yashvi,Shere,Shere.Yashvi@hotmail.com,M,MU7161,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",04-09-2023,3rd year,C+,Day Scholar
+Elakshi Soman,Elakshi,Soman,Soman.Elakshi@yahoo.com,F,MU2917,Environmental Science,"Environmental Biology, Climate Change Studies, Environmental Policy, Conservation Ecology, Geospatial Analysis",25-04-2023,4th year,C,Day Scholar
+Piya Kohli,Piya,Kohli,Kohli.Piya@yahoo.com,F,MU6726,Environmental Science,"Environmental Biology, Climate Change Studies, Environmental Policy, Conservation Ecology, Geospatial Analysis",22-02-2024,1st year,D,Day Scholar
+Ishita Ratta,Ishita,Ratta,Ratta.Ishita@hotmail.com,M,MU7975,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",26-12-2020,4th year,C+,Hosteller
+Ryan Yadav,Ryan,Yadav,Yadav.Ryan@gmail.com,F,MU6053,Computer Science,"Introduction to Programming, Data Structures, Algorithms, Database Management, Web Development",21-06-2023,4th year,C,Hosteller
+Tara Sengupta,Tara,Sengupta,Sengupta.Tara@gmail.com,F,MU7371,Mathematics,"Calculus, Linear Algebra, Probability and Statistics, Number Theory, Differential Equations",26-04-2023,1st year,F,Day Scholar
+Ojas Bir,Ojas,Bir,Bir.Ojas@hotmail.com,M,MU3620,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",02-07-2023,1st year,A,Hosteller
+Himmat Raman,Himmat,Raman,Raman.Himmat@hotmail.com,F,MU2317,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",05-08-2022,1st year,D,Day Scholar
+Kismat Majumdar,Kismat,Majumdar,Majumdar.Kismat@hotmail.com,M,MU9983,English,"Literature, Creative Writing, Linguistics, Shakespearean Studies, Poetry",19-12-2021,2nd year,A,Suspended
+Ojas Soman,Ojas,Soman,Soman.Ojas@gmail.com,M,MU7724,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",18-07-2023,2nd year,C+,Day Scholar
+Tejas Bansal,Tejas,Bansal,Bansal.Tejas@hotmail.com,F,MU2915,Economics,"Microeconomics, Macroeconomics, International Economics, Econometrics, Development Economics",14-10-2022,3rd year,F,Suspended
+Saanvi Bali,Saanvi,Bali,Bali.Saanvi@yahoo.com,F,MU0149,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",28-03-2023,2nd year,A+,Suspended
+Aradhya Bail,Aradhya,Bail,Bail.Aradhya@yahoo.com,M,MU0618,History,"World History, American History, European History, Ancient History, Medieval History",04-08-2020,2nd year,A+,Suspended
+Purab Kakar,Purab,Kakar,Kakar.Purab@yahoo.com,F,MU4706,Art and Design,"Drawing, Painting, Sculpture, Graphic Design, Art History",28-05-2023,2nd year,D,Hosteller
+Armaan Kala,Armaan,Kala,Kala.Armaan@hotmail.com,F,MU0814,Art and Design,"Drawing, Painting, Sculpture, Graphic Design, Art History",20-06-2020,2nd year,F,Day Scholar
+Hiran Cherian,Hiran,Cherian,Cherian.Hiran@yahoo.com,F,MU4431,Mathematics,"Calculus, Linear Algebra, Probability and Statistics, Number Theory, Differential Equations",20-03-2021,1st year,B+,Day Scholar
+Dhruv Dyal,Dhruv,Dyal,Dyal.Dhruv@hotmail.com,M,MU8537,Mechanical Engineering,"Thermodynamics, Mechanics of Materials, Fluid Mechanics, Control Systems, CAD/CAM",24-01-2024,4th year,A+,Day Scholar
+Shayak Korpal,Shayak,Korpal,Korpal.Shayak@gmail.com,M,MU7059,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",31-05-2022,3rd year,D,Suspended
+Keya Varughese,Keya,Varughese,Varughese.Keya@gmail.com,F,MU0902,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",25-08-2021,1st year,A+,Suspended
+Krish Kannan,Krish,Kannan,Kannan.Krish@hotmail.com,M,MU4216,Environmental Science,"Environmental Biology, Climate Change Studies, Environmental Policy, Conservation Ecology, Geospatial Analysis",10-08-2023,4th year,E,Day Scholar
+Mehul Ramanathan,Mehul,Ramanathan,Ramanathan.Mehul@gmail.com,M,MU8218,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",17-04-2022,3rd year,A+,Suspended
+Lakshay Apte,Lakshay,Apte,Apte.Lakshay@yahoo.com,F,MU6100,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",28-06-2022,1st year,E,Hosteller
+Parinaaz Ramanathan,Parinaaz,Ramanathan,Ramanathan.Parinaaz@yahoo.com,M,MU7003,History,"World History, American History, European History, Ancient History, Medieval History",28-08-2023,4th year,D,Suspended
+Jiya Hora,Jiya,Hora,Hora.Jiya@yahoo.com,M,MU4938,Economics,"Microeconomics, Macroeconomics, International Economics, Econometrics, Development Economics",20-10-2022,3rd year,F,Day Scholar
+Mamooty Bumb,Mamooty,Bumb,Bumb.Mamooty@hotmail.com,M,MU7274,English,"Literature, Creative Writing, Linguistics, Shakespearean Studies, Poetry",17-12-2021,2nd year,A,Suspended
+Advik Mand,Advik,Mand,Mand.Advik@hotmail.com,M,MU9028,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",05-03-2024,4th year,B,Suspended
+Jayesh Chaudhuri,Jayesh,Chaudhuri,Chaudhuri.Jayesh@gmail.com,F,MU5301,History,"World History, American History, European History, Ancient History, Medieval History",22-08-2021,1st year,A,Suspended
+Mehul Deep,Mehul,Deep,Deep.Mehul@gmail.com,M,MU1865,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",29-04-2021,4th year,C,Suspended
+Jivin Bala,Jivin,Bala,Bala.Jivin@yahoo.com,F,MU0955,Economics,"Microeconomics, Macroeconomics, International Economics, Econometrics, Development Economics",21-07-2022,3rd year,B+,Day Scholar
+Hazel Deo,Hazel,Deo,Deo.Hazel@hotmail.com,M,MU7962,History,"World History, American History, European History, Ancient History, Medieval History",03-12-2023,3rd year,C,Hosteller
+Siya Gala,Siya,Gala,Gala.Siya@yahoo.com,F,MU0805,Environmental Science,"Environmental Biology, Climate Change Studies, Environmental Policy, Conservation Ecology, Geospatial Analysis",31-10-2023,1st year,B+,Suspended
+Amani Zachariah,Amani,Zachariah,Zachariah.Amani@gmail.com,M,MU2078,Biology,"Cell Biology, Genetics, Ecology, Microbiology, Human Anatomy",01-07-2020,3rd year,B,Hosteller
+Tushar Warrior,Tushar,Warrior,Warrior.Tushar@yahoo.com,F,MU5119,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",24-09-2021,3rd year,A,Day Scholar
+Aarna Rajagopal,Aarna,Rajagopal,Rajagopal.Aarna@hotmail.com,M,MU1069,Mathematics,"Calculus, Linear Algebra, Probability and Statistics, Number Theory, Differential Equations",03-11-2021,4th year,C,Suspended
+Ahana  Bawa,Ahana ,Bawa,Bawa.Ahana @yahoo.com,M,MU0092,Biology,"Cell Biology, Genetics, Ecology, Microbiology, Human Anatomy",29-04-2022,1st year,B,Day Scholar
+Faiyaz Dalal,Faiyaz,Dalal,Dalal.Faiyaz@gmail.com,F,MU0962,Art and Design,"Drawing, Painting, Sculpture, Graphic Design, Art History",17-04-2023,1st year,E,Day Scholar
+Kashvi Reddy,Kashvi,Reddy,Reddy.Kashvi@gmail.com,M,MU7945,Mechanical Engineering,"Thermodynamics, Mechanics of Materials, Fluid Mechanics, Control Systems, CAD/CAM",21-03-2023,3rd year,C,Hosteller
+Eva Singh,Eva,Singh,Singh.Eva@hotmail.com,F,MU8241,Mechanical Engineering,"Thermodynamics, Mechanics of Materials, Fluid Mechanics, Control Systems, CAD/CAM",08-08-2023,1st year,B+,Hosteller
+Taran Bera,Taran,Bera,Bera.Taran@hotmail.com,F,MU1543,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",03-07-2023,2nd year,F,Hosteller
+Shaan Garde,Shaan,Garde,Garde.Shaan@hotmail.com,M,MU0993,English,"Literature, Creative Writing, Linguistics, Shakespearean Studies, Poetry",15-06-2021,3rd year,C,Suspended
+Pihu Babu,Pihu,Babu,Babu.Pihu@yahoo.com,M,MU4801,History,"World History, American History, European History, Ancient History, Medieval History",21-07-2022,1st year,B+,Hosteller
+Umang Barad,Umang,Barad,Barad.Umang@hotmail.com,M,MU4169,Biology,"Cell Biology, Genetics, Ecology, Microbiology, Human Anatomy",26-08-2022,3rd year,D,Day Scholar
+Charvi Buch,Charvi,Buch,Buch.Charvi@yahoo.com,F,MU5418,Economics,"Microeconomics, Macroeconomics, International Economics, Econometrics, Development Economics",03-06-2024,4th year,B,Hosteller
+Hunar Saran,Hunar,Saran,Saran.Hunar@hotmail.com,F,MU2651,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",18-11-2021,3rd year,A,Hosteller
+Jivin Kanda,Jivin,Kanda,Kanda.Jivin@gmail.com,F,MU6521,Chemistry,"Inorganic Chemistry, Organic Chemistry, Physical Chemistry, Analytical Chemistry, Biochemistry",20-08-2022,2nd year,F,Hosteller
+Nehmat Sarma,Nehmat,Sarma,Sarma.Nehmat@gmail.com,F,MU5770,Art and Design,"Drawing, Painting, Sculpture, Graphic Design, Art History",21-03-2021,2nd year,B+,Suspended
+Urvi Butala,Urvi,Butala,Butala.Urvi@gmail.com,F,MU9825,Psychology,"Introduction to Psychology, Abnormal Psychology, Cognitive Psychology, Social Psychology, Developmental Psychology",23-11-2022,3rd year,C+,Hosteller
+Umang Kothari,Umang,Kothari,Kothari.Umang@hotmail.com,M,MU8404,Mechanical Engineering,"Thermodynamics, Mechanics of Materials, Fluid Mechanics, Control Systems, CAD/CAM",15-07-2022,4th year,D,Day Scholar
+Jivika Kunda,Jivika,Kunda,Kunda.Jivika@yahoo.com,M,MU1945,Computer Science,"Introduction to Programming, Data Structures, Algorithms, Database Management, Web Development",16-04-2024,2nd year,B,Suspended
+Kavya Bassi,Kavya,Bassi,Bassi.Kavya@gmail.com,M,MU8545,Computer Science,"Introduction to Programming, Data Structures, Algorithms, Database Management, Web Development",24-04-2023,2nd year,B,Hosteller
+Ehsaan Sani,Ehsaan,Sani,Sani.Ehsaan@yahoo.com,F,MU3126,History,"World History, American History, European History, Ancient History, Medieval History",08-09-2022,3rd year,A+,Suspended
+Kismat Krishnamurthy,Kismat,Krishnamurthy,Krishnamurthy.Kismat@hotmail.com,F,MU7084,Biology,"Cell Biology, Genetics, Ecology, Microbiology, Human Anatomy",14-04-2023,2nd year,A,Day Scholar
+Navya Ganesh,Navya,Ganesh,Ganesh.Navya@yahoo.com,M,MU3349,Environmental Science,"Environmental Biology, Climate Change Studies, Environmental Policy, Conservation Ecology, Geospatial Analysis",22-03-2021,1st year,B,Hosteller
+Rhea Kibe,Rhea,Kibe,Kibe.Rhea@hotmail.com,M,MU6758,English,"Literature, Creative Writing, Linguistics, Shakespearean Studies, Poetry",17-02-2024,4th year,E,Suspended
+Tara Dugal,Tara,Dugal,Dugal.Tara@gmail.com,M,MU2946,Physics,"Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics",13-07-2020,3rd year,A+,Hosteller
+Yasmin Chauhan,Yasmin,Chauhan,Chauhan.Yasmin@gmail.com,F,MU6497,Economics,"Microeconomics, Macroeconomics, International Economics, Econometrics, Development Economics",15-12-2022,1st year,C+,Suspended
+Kaira Hans,Kaira,Hans,Hans.Kaira@yahoo.com,F,MU0471,Art and Design,"Drawing, Painting, Sculpture, Graphic Design, Art History",28-02-2022,2nd year,A,Day Scholar
+Shayak Bains,Shayak,Bains,Bains.Shayak@hotmail.com,M,MU9533,Mechanical Engineering,"Thermodynamics, Mechanics of Materials, Fluid Mechanics, Control Systems, CAD/CAM",07-05-2022,4th year,A,Suspended
+Yashvi Lalla,Yashvi,Lalla,Lalla.Yashvi@hotmail.com,M,MU1501,History,"World History, American History, European History, Ancient History, Medieval History",16-07-2020,2nd year,B,Day Scholar

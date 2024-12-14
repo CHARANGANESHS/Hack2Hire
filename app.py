@@ -1,9 +1,9 @@
-from flask import Flask, render_template, request, redirect, url_for, Response
-import pandas as pd
-from main import helloworld
-from main2 import  helloworld2
-from main3 import helloworld3
-from main4 import helloworld4
+from flask import Flask, render_template, request, redirect, url_for, Response # type: ignore
+import pandas as pd # type: ignore
+from src.main import helloworld
+from src.main2 import  helloworld2
+from src.main3 import helloworld3
+from src.main4 import helloworld4
 app = Flask(__name__)
 
 
